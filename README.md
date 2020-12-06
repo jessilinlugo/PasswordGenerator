@@ -41,5 +41,5 @@ I look forward to getting over this hurdle.
 My password generator's console logs and their results. 
 
 
-<img src="/assets/userinput.png" alt="User inputted data"/>
-<img src="/assets/Consolelogs.png" alt="console logs"/>
+<img src="/Assets/userinput.png" alt="User inputted data"/>
+<img src="/Assets/Consolelogs.png" alt="console logs"/>
